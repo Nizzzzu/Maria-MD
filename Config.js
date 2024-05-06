@@ -2,9 +2,9 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernumber = ['919931122319']
-global.ownername = "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰"//owner name
-global.ytname = "YT: AyushBotz.inc"
+global.ownernumber = ['94761652132']
+global.ownername = "💙𓆩‎✘Nizzu𓆪_✰"//owner name
+global.ytname = "YT: Nizzu"
 global.socialm = "GitHub: Ayushpandey023"
 global.location = "Indian"
 
@@ -13,7 +13,7 @@ global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
 //sticker details
 global.stickername = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
 global.packname = 'Sticker By'
-global.author = 'Maria Bot'
+global.author = 'Nizzu Bot'
 //console view/theme
 global.themeemoji = '🧩'
 global.wm = "Ayush botz inc."
@@ -26,7 +26,7 @@ global.prefa = ['!']
 
 //false=disable and true=enable
 global.welcome = false //auto welcome
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
